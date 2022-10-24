@@ -3,7 +3,8 @@
 
 int main(int argc, char *argv[]) {
 	double a;
-	scanf("%lf",&a);
+//	scanf("%lf",&a);
+	a=1;
 	double x=0,y;	//y(0)=a
 	y=a;
 	//ifÊäÈëe^n --> y=exp(a)
